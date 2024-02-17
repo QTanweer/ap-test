@@ -1,0 +1,46 @@
+1st API: 
+
+takes:
+ Company name
+ tciker name 
+
+returns: 
+
+Revenue Growth Rate
+Tax shield
+Expenses Growth Rate
+Depreciationa and Amortization
+EBITDA
+Equity Risk Premium
+Risk Free Rate
+Beta
+Current Market Share Price 
+Outstanding Shares
+EV/EBITDA Multiple
+
+
+2nd  API:
+takes: 
+Revenue Growth Rate
+Tax shield
+Expenses Growth Rate
+Depreciationa and Amortization
+EBITDA
+Equity Risk Premium
+Risk Free Rate
+Beta
+Current Market Share Price 
+Outstanding Shares
+
+
+Returns: 
+
+FCF Values
+Terminal Value
+WACC
+NPV Value
+Equity Value
+Current Market Share Price 
+Outstanding Shares
+Fair Price
+Growth
